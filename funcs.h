@@ -4,8 +4,8 @@
 double MySum(double, double);
 double MySub(double, double);
 double MyMul(double, double);
-double MyDiv(double , double )
-int MyPow(int, int);
+double MyDiv(double , double );
+double MyPow(double, double);
 
 
 
